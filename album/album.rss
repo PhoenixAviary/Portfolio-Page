@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Bioluminescence Web</title>
+   	<link>.</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Bioluminescence_Final-1</title>
+            <link>slides/Bioluminescence_Final-1.html</link>
+            <pubDate>Sat, 01 Jul 2017 23:33:35 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bioluminescence_Final-1.jpg" width="241" height="360"/>
+            <media:content type="image/jpeg" url="slides/Bioluminescence_Final-1.jpg" width="937" height="1400"/>
+            <jalbum:original url="hi-res/Bioluminescence_Final-1.jpg" width="937" height="1400" fileSize="670362"/>
+            <jalbum:exif originalDate="Thu, 04 Jun 2009 11:19:13 -0400" cameraMake="FUJIFILM" cameraModel="FinePix S5Pro"/>
+            <guid isPermaLink="false">slides/Bioluminescence_Final-1.jpg</guid>
+        </item>
+        <item>
+            <title>Bioluminescence_Final-2</title>
+            <link>slides/Bioluminescence_Final-2.html</link>
+            <pubDate>Sat, 01 Jul 2017 23:33:35 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bioluminescence_Final-2.jpg" width="480" height="351"/>
+            <media:content type="image/jpeg" url="slides/Bioluminescence_Final-2.jpg" width="1400" height="1024"/>
+            <jalbum:original url="hi-res/Bioluminescence_Final-2.jpg" width="1400" height="1024" fileSize="912803"/>
+            <jalbum:exif originalDate="Mon, 27 May 2013 11:17:39 -0400" cameraMake="NIKON CORPORATION" cameraModel="NIKON D800"/>
+            <guid isPermaLink="false">slides/Bioluminescence_Final-2.jpg</guid>
+        </item>
+        <item>
+            <title>Bioluminescence_Final-3</title>
+            <link>slides/Bioluminescence_Final-3.html</link>
+            <pubDate>Sat, 01 Jul 2017 23:33:35 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bioluminescence_Final-3.jpg" width="241" height="360"/>
+            <media:content type="image/jpeg" url="slides/Bioluminescence_Final-3.jpg" width="937" height="1400"/>
+            <jalbum:original url="hi-res/Bioluminescence_Final-3.jpg" width="937" height="1400" fileSize="859175"/>
+            <jalbum:exif originalDate="Sun, 06 Sep 2009 14:42:19 -0400" cameraMake="FUJIFILM" cameraModel="FinePix S5Pro"/>
+            <guid isPermaLink="false">slides/Bioluminescence_Final-3.jpg</guid>
+        </item>
+        <item>
+            <title>Bioluminescence_Final-4</title>
+            <link>slides/Bioluminescence_Final-4.html</link>
+            <pubDate>Sat, 01 Jul 2017 23:33:35 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bioluminescence_Final-4.jpg" width="240" height="360"/>
+            <media:content type="image/jpeg" url="slides/Bioluminescence_Final-4.jpg" width="934" height="1400"/>
+            <jalbum:original url="hi-res/Bioluminescence_Final-4.jpg" width="934" height="1400" fileSize="525354"/>
+            <jalbum:exif originalDate="Mon, 27 May 2013 11:14:11 -0400" cameraMake="NIKON CORPORATION" cameraModel="NIKON D800"/>
+            <guid isPermaLink="false">slides/Bioluminescence_Final-4.jpg</guid>
+        </item>
+        <item>
+            <title>Bioluminescence_Final-5</title>
+            <link>slides/Bioluminescence_Final-5.html</link>
+            <pubDate>Sat, 01 Jul 2017 23:33:35 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bioluminescence_Final-5.jpg" width="241" height="360"/>
+            <media:content type="image/jpeg" url="slides/Bioluminescence_Final-5.jpg" width="937" height="1400"/>
+            <jalbum:original url="hi-res/Bioluminescence_Final-5.jpg" width="937" height="1400" fileSize="792777"/>
+            <jalbum:exif originalDate="Sun, 06 Sep 2009 15:01:55 -0400" cameraMake="FUJIFILM" cameraModel="FinePix S5Pro"/>
+            <guid isPermaLink="false">slides/Bioluminescence_Final-5.jpg</guid>
+        </item>
+        <item>
+            <title>Bioluminescence_Final-6</title>
+            <link>slides/Bioluminescence_Final-6.html</link>
+            <pubDate>Sat, 01 Jul 2017 23:33:35 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bioluminescence_Final-6.jpg" width="445" height="360"/>
+            <media:content type="image/jpeg" url="slides/Bioluminescence_Final-6.jpg" width="1400" height="1132"/>
+            <jalbum:original url="hi-res/Bioluminescence_Final-6.jpg" width="1400" height="1132" fileSize="976927"/>
+            <jalbum:exif originalDate="Mon, 27 May 2013 11:47:28 -0400" cameraMake="NIKON CORPORATION" cameraModel="NIKON D800"/>
+            <guid isPermaLink="false">slides/Bioluminescence_Final-6.jpg</guid>
+        </item>
+        <item>
+            <title>Bioluminescence_Final-7</title>
+            <link>slides/Bioluminescence_Final-7.html</link>
+            <pubDate>Sat, 01 Jul 2017 23:33:35 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bioluminescence_Final-7.jpg" width="480" height="321"/>
+            <media:content type="image/jpeg" url="slides/Bioluminescence_Final-7.jpg" width="1400" height="937"/>
+            <jalbum:original url="hi-res/Bioluminescence_Final-7.jpg" width="1400" height="937" fileSize="348778"/>
+            <jalbum:exif originalDate="Thu, 18 Nov 2010 11:34:49 -0500" cameraMake="FUJIFILM" cameraModel="FinePix S5Pro"/>
+            <guid isPermaLink="false">slides/Bioluminescence_Final-7.jpg</guid>
+        </item>
+        <item>
+            <title>Bioluminescence_Final-8</title>
+            <link>slides/Bioluminescence_Final-8.html</link>
+            <pubDate>Sat, 01 Jul 2017 23:33:35 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bioluminescence_Final-8.jpg" width="238" height="360"/>
+            <media:content type="image/jpeg" url="slides/Bioluminescence_Final-8.jpg" width="925" height="1400"/>
+            <jalbum:original url="hi-res/Bioluminescence_Final-8.jpg" width="925" height="1400" fileSize="809989"/>
+            <jalbum:exif originalDate="Mon, 27 May 2013 11:36:15 -0400" cameraMake="NIKON CORPORATION" cameraModel="NIKON D800"/>
+            <guid isPermaLink="false">slides/Bioluminescence_Final-8.jpg</guid>
+        </item>
+        <item>
+            <title>Bioluminescence_Final-9</title>
+            <link>slides/Bioluminescence_Final-9.html</link>
+            <pubDate>Sat, 01 Jul 2017 23:33:35 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bioluminescence_Final-9.jpg" width="480" height="321"/>
+            <media:content type="image/jpeg" url="slides/Bioluminescence_Final-9.jpg" width="1400" height="937"/>
+            <jalbum:original url="hi-res/Bioluminescence_Final-9.jpg" width="1400" height="937" fileSize="623030"/>
+            <jalbum:exif originalDate="Thu, 04 Jun 2009 11:19:31 -0400" cameraMake="FUJIFILM" cameraModel="FinePix S5Pro"/>
+            <guid isPermaLink="false">slides/Bioluminescence_Final-9.jpg</guid>
+        </item>
+    </channel>
+</rss>

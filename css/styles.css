@@ -3,6 +3,7 @@
 
 body {
 	font-family: 'Junge', serif;
+	padding-bottom: 200px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -17,7 +18,7 @@ h2 {
 
 h3 {
 	font-size: 25px;
-	color: #FFF;
+	color: #00b8e6;
 }
 
 h4 {

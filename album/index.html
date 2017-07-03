@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" href="res/app.css">
+    <link rel="stylesheet" href="res/styles.css">
+    <style>
+      html, body {
+        background-color: #000000;
+      }
+      .filmstrip {
+      }
+      .caption {
+      }
+    </style>
+
+		<title>Bioluminescence Web</title>
+
+
+<!-- BananAlbum $bananalbum ($bananalbumbuild) -->
+<!-- Rudin Swagerman -->
+<!-- BananAlbum.com -->
+<!-- 2017 -->
+
+	<link rel="alternate" href="album.rss" type="application/rss+xml">
+</head>
+	<body>
+
+	
+
+    <div id="root">
+      <div class="init-loader"></div>
+    </div>
+    <script>
+      var ready = false;
+      var contrast = function (rgb) {
+        return ((rgb[0]*0.3 + rgb[1]*0.6 + rgb[2]*0.1) / 256 < 0.5)? "white" : "black";
+      };
+      var rgb = getComputedStyle(document.body).backgroundColor.slice(4, -1).split(',');
+      document.body.style.color = contrast(rgb);
+      setTimeout(function () {ready = true;}, 1300);
+    </script>
+    <script type="text/javascript" src="res/app.js"></script>  
+    <script type="text/javascript" src="album.js" defer></script>  
+    <script type="text/javascript" src="menu.js" defer></script> 
+
+	</body>
+</html>
